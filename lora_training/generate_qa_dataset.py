@@ -28,7 +28,7 @@ from rag_pipeline.chunking import load_documents, chunk_text  # noqa: E402
 
 # ── Configuration ─────────────────────────────────────────────────────
 OLLAMA_BASE_URL: str = "http://localhost:11434"
-OLLAMA_MODEL: str = "tinyllama"
+OLLAMA_MODEL: str = "gemma2:2b"
 CHUNK_SIZE: int = 300
 OVERLAP: int = 50
 QA_PER_CHUNK: int = 2
