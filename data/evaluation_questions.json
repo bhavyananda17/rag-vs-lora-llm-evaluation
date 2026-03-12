@@ -1,0 +1,12 @@
+[
+  "What is the attention mechanism in transformers?",
+  "What is Retrieval-Augmented Generation?",
+  "What are vector embeddings?",
+  "What problem does LoRA solve in model training?",
+  "Why do large language models hallucinate?",
+  "What is the transformer architecture?",
+  "How does prompt engineering differ from fine-tuning?",
+  "What role do embeddings play in semantic search?",
+  "How does constrained decoding help reduce hallucinations?",
+  "What is the difference between fact learning and alignment?"
+]
